@@ -1,0 +1,14 @@
+{
+  "name": "internal-dev-tools",
+  "version": "1.4.2",
+  "description": "Internal developer utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [],
+  "author": "berkturetken-second",
+  "license": "UNLICENSED",
+  "private": true
+}
