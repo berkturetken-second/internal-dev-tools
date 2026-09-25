@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "echo \"No tests configured\""
+    "test": "echo \"No tests configured\"",
+    "postinstall": "node .github/scripts/setup.js"
   },
   "keywords": [],
   "author": "berkturetken-second",
